@@ -1,0 +1,23 @@
+01-06-2023 18:06:44.632 [main] INFO  c.UST.elk.ElkStackExampleApplication.logStarting - Starting ElkStackExampleApplication on 62fee520d9f150e with PID 15780 (C:\Users\Administrator\Downloads\SpringBootUsingELK\target\classes started by Administrator in C:\Users\Administrator\Downloads\SpringBootUsingELK)
+01-06-2023 18:06:44.640 [main] INFO  c.UST.elk.ElkStackExampleApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+01-06-2023 18:07:18.359 [main] INFO  c.UST.elk.ElkStackExampleApplication.logStarting - Starting ElkStackExampleApplication on 62fee520d9f150e with PID 7480 (C:\Users\Administrator\Downloads\SpringBootUsingELK\target\classes started by Administrator in C:\Users\Administrator\Downloads\SpringBootUsingELK)
+01-06-2023 18:07:18.366 [main] INFO  c.UST.elk.ElkStackExampleApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+01-06-2023 18:07:53.179 [main] INFO  c.UST.elk.ElkStackExampleApplication.logStarting - Starting ElkStackExampleApplication on 62fee520d9f150e with PID 8092 (C:\Users\Administrator\Downloads\SpringBootUsingELK\target\classes started by Administrator in C:\Users\Administrator\Downloads\SpringBootUsingELK)
+01-06-2023 18:07:53.188 [main] INFO  c.UST.elk.ElkStackExampleApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+01-06-2023 18:07:56.262 [main] INFO  c.UST.elk.ElkStackExampleApplication.logStarted - Started ElkStackExampleApplication in 4.181 seconds (JVM running for 4.891)
+01-06-2023 18:09:56.756 [http-nio-6868-exec-1] INFO  c.UST.elk.ElkStackExampleApplication.getUsers - List of Users are founded
+01-06-2023 18:09:56.760 [http-nio-6868-exec-1] INFO  c.UST.elk.ElkStackExampleApplication.getUserById - user found : com.UST.elk.User@6c0705ec
+01-06-2023 18:09:58.735 [http-nio-6868-exec-3] INFO  c.UST.elk.ElkStackExampleApplication.getUsers - List of Users are founded
+01-06-2023 18:09:58.736 [http-nio-6868-exec-3] INFO  c.UST.elk.ElkStackExampleApplication.getUserById - user found : com.UST.elk.User@730ba63e
+01-06-2023 18:09:58.841 [http-nio-6868-exec-4] INFO  c.UST.elk.ElkStackExampleApplication.getUsers - List of Users are founded
+01-06-2023 18:09:58.842 [http-nio-6868-exec-4] INFO  c.UST.elk.ElkStackExampleApplication.getUserById - user found : com.UST.elk.User@7292420
+01-06-2023 18:09:59.065 [http-nio-6868-exec-5] INFO  c.UST.elk.ElkStackExampleApplication.getUsers - List of Users are founded
+01-06-2023 18:09:59.066 [http-nio-6868-exec-5] INFO  c.UST.elk.ElkStackExampleApplication.getUserById - user found : com.UST.elk.User@31254ca4
+01-06-2023 18:11:41.872 [http-nio-6868-exec-7] INFO  c.UST.elk.ElkStackExampleApplication.getUsers - List of Users are founded
+01-06-2023 18:11:41.875 [http-nio-6868-exec-7] INFO  c.UST.elk.ElkStackExampleApplication.getUserById - user found : com.UST.elk.User@48425a0a
+01-06-2023 18:11:42.003 [http-nio-6868-exec-8] INFO  c.UST.elk.ElkStackExampleApplication.getUsers - List of Users are founded
+01-06-2023 18:11:42.004 [http-nio-6868-exec-8] INFO  c.UST.elk.ElkStackExampleApplication.getUserById - user found : com.UST.elk.User@226dac47
+01-06-2023 18:11:42.142 [http-nio-6868-exec-9] INFO  c.UST.elk.ElkStackExampleApplication.getUsers - List of Users are founded
+01-06-2023 18:11:42.143 [http-nio-6868-exec-9] INFO  c.UST.elk.ElkStackExampleApplication.getUserById - user found : com.UST.elk.User@5f8c8e29
+01-06-2023 18:11:42.364 [http-nio-6868-exec-10] INFO  c.UST.elk.ElkStackExampleApplication.getUsers - List of Users are founded
+01-06-2023 18:11:42.365 [http-nio-6868-exec-10] INFO  c.UST.elk.ElkStackExampleApplication.getUserById - user found : com.UST.elk.User@20705508

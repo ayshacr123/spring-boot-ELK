@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: com.UST.elk.ElkStackExampleApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 2.108 s <<< FAILURE! - in com.UST.elk.ElkStackExampleApplicationTests
+contextLoads  Time elapsed: 0.011 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: java.lang.IllegalStateException: 
+Logback configuration error detected: 
+ERROR in ch.qos.logback.core.FileAppender[SAVE-TO-FILE] - "File" property not set for appender named [SAVE-TO-FILE].
+ERROR in ch.qos.logback.core.joran.spi.Interpreter@8:11 - no applicable action for [file], current ElementPath  is [[configuration][file]]
+ERROR in ch.qos.logback.core.joran.spi.Interpreter@9:74 - no applicable action for [encoder], current ElementPath  is [[configuration][encoder]]
+ERROR in ch.qos.logback.core.joran.spi.Interpreter@10:18 - no applicable action for [Pattern], current ElementPath  is [[configuration][encoder][Pattern]]
+

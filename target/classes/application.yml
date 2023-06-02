@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: ELK-STACK-EXAMPLE
+
+server:
+  port: 6868
+
+logging:
+  file: C:/Users/Administrator/Desktop/logs/elk-stack.log
